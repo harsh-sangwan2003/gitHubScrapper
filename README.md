@@ -40,6 +40,6 @@ to run the script
 
 - [Link](https://app.gemoo.com/share/home?codeId=M03ZAaW91QLmo)
 
-https://github.com/harsh-sangwan2003/gitHubScrapper/assets/84121947/78b9f633-bdd0-4701-ac8f-77c08811dd61
+https://github.com/harsh-sangwan2003/gitHubScrapper/assets/84121947/2afdf24d-24ba-4578-9edb-2f091ef4d2f1.mp4
 
-M03ZAaW91QLmo).mp4
+
