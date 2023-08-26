@@ -39,3 +39,7 @@ to run the script
 ## Demo Video
 
 - [Link](https://app.gemoo.com/share/home?codeId=M03ZAaW91QLmo)
+
+https://github.com/harsh-sangwan2003/gitHubScrapper/assets/84121947/78b9f633-bdd0-4701-ac8f-77c08811dd61
+
+M03ZAaW91QLmo).mp4
