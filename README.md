@@ -28,7 +28,7 @@ npm install dependencies
 
 ## Usage
 
-The project is a Nodejs script that can be run from the command line.
+This project scrapes the data from the github website and collect the issues of the repos and transfroms them into a pdf file.
 Type 
 
 ```js
