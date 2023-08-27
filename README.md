@@ -9,7 +9,7 @@ A quick guide to my Project ->
 
 - NodeJs
 - JavaScript
-- xlsx
+- pdfkit
 - request
 - cheerio
 
