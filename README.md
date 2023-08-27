@@ -38,8 +38,6 @@ to run the script
 
 ## Demo Video
 
-- [Link](https://app.gemoo.com/share/home?codeId=M03ZAaW91QLmo)
-
-https://github.com/harsh-sangwan2003/gitHubScrapper/assets/84121947/2afdf24d-24ba-4578-9edb-2f091ef4d2f1.mp4
+- [Link](https://app.gemoo.com/share/home?codeId=DW4gOan270b9e)
 
 
